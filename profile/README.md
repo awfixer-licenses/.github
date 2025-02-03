@@ -1,1 +1,19 @@
-## This is not a complicated readme, visit [the website](https://licenses.awfixer.dev) for more information
+<div align="center">
+
+<h1>
+  AWFixer Licenses has been moved
+</h1>
+
+<h2>
+  New organization is <a href="https://github.com/awfixer-org">here</a>
+</h2>
+
+<h2>
+  You can also join the <a href="https://discord.gg/awfixer">Discord</a>
+</h2>
+
+<h1>
+  We love you, see you soon!
+</h1>
+
+</div>
